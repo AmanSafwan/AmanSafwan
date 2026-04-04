@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Aman Safwan👋
 
+![banner](img/banner_linkedin.png)
 <!--
 **AmanSafwan/AmanSafwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **@wpuonline**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- 😁
+
+![typing](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHk5ZXR3ZWozZGM1cTRieWF3aHB6MjU3ZTFhajR0NmtxNmtuczA1ciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/eYilisUwipOEM/giphy.gif)

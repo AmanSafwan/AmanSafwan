@@ -1,7 +1,8 @@
 ﻿<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--        DARK DEV ARCADE v6 — SAME LAYOUT · DARK IT GAMER THEME      -->
+<!--   DARK DEV ARCADE v6.1 — FULL FEATURES · CONSISTENT DARK THEME    -->
+<!--   palette: #050505 bg · #1A1A1A panel · #FFFFFF text · #FF2D2D accent -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/github-header-banner%20(1).png" width="800" alt="Aman Safwan banner"/>
@@ -19,30 +20,30 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=800&color=FF2D2D&center=true&vCenter=true&random=false&width=800&lines=NEON%20MODE%20ACTIVATED%20%E2%9A%A1;WELCOME%20TO%20NEON%20DEV%20ARCADE;AI%20%2B%20ML%20%2B%20CODE%20%3D%20ULTIMATE%20COMBO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=800&color=FFFFFF&center=true&vCenter=true&random=false&width=800&lines=NEON%20MODE%20ACTIVATED%20%E2%9A%A1;WELCOME%20TO%20NEON%20DEV%20ARCADE;AI%20%2B%20ML%20%2B%20CODE%20%3D%20ULTIMATE%20COMBO)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=FF2D2D&center=true&vCenter=true&random=true&width=800&lines=NO%20CAP%20THIS%20PROFILE%20GOES%20HARD...;BUILDING%20COOL%20STUFF%2024%2F7...;BOSS%20FIGHT%3A%20Final%20Year%20Project;COMPILING%20GREATNESS...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FF2D2D&center=true&vCenter=true&random=true&width=800&lines=git%20push%20main%20character%20energy...;shipping%20features%20not%20excuses...;debugging%20reality%20at%203AM...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=888888&center=true&vCenter=true&random=true&width=800&lines=git%20push%20main%20character%20energy...;shipping%20features%20not%20excuses...;debugging%20reality%20at%203AM...)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF2D2D?style=for-the-badge&labelColor=050505)](https://amansafwan.github.io/portfolio-aman/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-FF2D2D?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansafwan)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-FF2D2D?style=for-the-badge&labelColor=050505&logo=github&logoColor=white)](https://github.com/AmanSafwan)
-[![Email](https://img.shields.io/badge/📧_EMAIL-FF2D2D?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=white)](mailto:safwanaman2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-1A1A1A?style=for-the-badge&labelColor=050505&logo=google-chrome&logoColor=FF2D2D)](https://amansafwan.github.io/portfolio-aman/)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-1A1A1A?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=FF2D2D)](https://linkedin.com/in/amansafwan)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-1A1A1A?style=for-the-badge&labelColor=050505&logo=github&logoColor=FF2D2D)](https://github.com/AmanSafwan)
+[![Email](https://img.shields.io/badge/📧_EMAIL-1A1A1A?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=FF2D2D)](mailto:safwanaman2003@gmail.com)
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-∞-FF2D2D?style=for-the-badge&labelColor=050505)
-![HP](https://img.shields.io/badge/HP-██████████-FF2D2D?style=for-the-badge&labelColor=050505)
-![MP](https://img.shields.io/badge/MP-ENERGY%20DRINK-FF2D2D?style=for-the-badge&labelColor=050505)
-![XP](https://img.shields.io/badge/XP-MAX%20GRIND-FF2D2D?style=for-the-badge&labelColor=050505)
-![Vibe](https://img.shields.io/badge/VIBE-INSANE-888888?style=for-the-badge&labelColor=050505)
-![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=FF2D2D&logo=github)
-![Party](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=FF2D2D&logo=github)
-![Live](https://img.shields.io/badge/LIVE-FEED-ON-FF2D2D?style=for-the-badge&labelColor=050505)
-![Auto](https://img.shields.io/badge/AUTO-SYNC-4H-FF2D2D?style=for-the-badge&labelColor=050505)
+![Level](https://img.shields.io/badge/LEVEL-∞-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
+![HP](https://img.shields.io/badge/HP-██████████-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
+![MP](https://img.shields.io/badge/MP-ENERGY%20DRINK-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
+![XP](https://img.shields.io/badge/XP-MAX%20GRIND-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
+![Vibe](https://img.shields.io/badge/VIBE-INSANE-1A1A1A?style=for-the-badge&labelColor=050505&color=888888)
+![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=1A1A1A&labelColor=050505&logo=github&logoColor=FF2D2D)
+![Party](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=1A1A1A&labelColor=050505&logo=github&logoColor=FF2D2D)
+![Live](https://img.shields.io/badge/LIVE-FEED-ON-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
+![Auto](https://img.shields.io/badge/AUTO-SYNC-4H-1A1A1A?style=for-the-badge&labelColor=050505&color=FF2D2D)
 
 [![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -54,18 +55,19 @@
 
 <div align="center" id="mission-control">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:050505,50:FF2D2D,100:050505&height=52&section=header&text=🎛️%20MISSION%20CONTROL&fontSize=22&fontColor=FF2D2D&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:050505,50:1a1a1a,100:050505&height=52&section=header&text=🎛️%20MISSION%20CONTROL&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
 
 <br/>
 
-[![Live](https://img.shields.io/badge/⚡_LIVE-FF2D2D?style=flat-square&labelColor=050505)](#live-feed)
-[![HUD](https://img.shields.io/badge/⬇️_HUD-FF2D2D?style=flat-square&labelColor=050505)](#player-hud)
-[![Profile](https://img.shields.io/badge/👤_PROFILE-FF2D2D?style=flat-square&labelColor=050505)](#player-profile)
-[![Loadout](https://img.shields.io/badge/⚔️_LOADOUT-FF2D2D?style=flat-square&labelColor=050505)](#weapon-loadout)
-[![Quests](https://img.shields.io/badge/📜_QUESTS-888888?style=flat-square&labelColor=050505)](#quest-log)
-[![Hall](https://img.shields.io/badge/🏆_HALL-FF2D2D?style=flat-square&labelColor=050505)](#achievement-hall)
-[![Arcade](https://img.shields.io/badge/🕹️_ARCADE-FF2D2D?style=flat-square&labelColor=050505)](#arcade-zone)
-[![Memes](https://img.shields.io/badge/😂_MEMES-FF2D2D?style=flat-square&labelColor=050505)](#meme-zone)
+[![Live](https://img.shields.io/badge/⚡_LIVE-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#live-feed)
+[![HUD](https://img.shields.io/badge/⬇️_HUD-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#player-hud)
+[![Profile](https://img.shields.io/badge/👤_PROFILE-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#player-profile)
+[![Loadout](https://img.shields.io/badge/⚔️_LOADOUT-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#weapon-loadout)
+[![Mission](https://img.shields.io/badge/🎯_MISSION-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#current-mission)
+[![Quests](https://img.shields.io/badge/📜_QUESTS-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#quest-log)
+[![Hall](https://img.shields.io/badge/🏆_HALL-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#achievement-hall)
+[![Arcade](https://img.shields.io/badge/🕹️_ARCADE-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#arcade-zone)
+[![Memes](https://img.shields.io/badge/😂_MEMES-1A1A1A?style=flat-square&labelColor=050505&color=FF2D2D)](#meme-zone)
 
 <br/>
 
@@ -83,7 +85,7 @@
 
 <div align="center" id="live-feed">
 
-<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:050505,50:FF2D2D,100:FF2D2D&height=52&section=header&text=⚡%20LIVE%20FEED&fontSize=22&fontColor=FF2D2D&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:050505,50:1a1a1a,100:050505&height=52&section=header&text=⚡%20LIVE%20FEED&fontSize=22&fontColor=FFFFFF&animation=blinking"/>
 
 <br/>
 
@@ -109,7 +111,7 @@
 
 **🎲 LIVE DEV JOKE** *(new joke every time you open this profile)*
 
-<img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=FF2D2D&aColor=FF2D2D" width="500" alt="Live dev joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=FFFFFF&aColor=FF2D2D" width="500" alt="Live dev joke"/>
 
 <br/>
 
@@ -129,7 +131,7 @@
 
 <div align="center" id="player-hud">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=📊%20PLAYER%20HUD&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=📊%20PLAYER%20HUD&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -157,7 +159,7 @@
 
 <div align="center" id="player-profile">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=👤%20PLAYER%20PROFILE&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=👤%20PLAYER%20PROFILE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 </div>
 
@@ -190,7 +192,7 @@
 
 <div align="center" id="weapon-loadout">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=⚔️%20WEAPON%20LOADOUT&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=⚔️%20WEAPON%20LOADOUT&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -213,10 +215,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050505" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=050505" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=050505" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=050505" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=FF2D2D&labelColor=050505" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=FF2D2D&labelColor=050505" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=FF2D2D&labelColor=050505" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=FF2D2D&labelColor=050505" alt="Streamlit"/>
 </p>
 
 <br/>
@@ -240,7 +242,7 @@
 
 <div align="center" id="current-mission">
 
-<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:050505,50:FF2D2D,100:FF2D2D&height=52&section=header&text=🎯%20CURRENT%20MISSION&fontSize=22&fontColor=888888&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:050505,50:1a1a1a,100:050505&height=52&section=header&text=🎯%20CURRENT%20MISSION&fontSize=22&fontColor=FFFFFF&animation=blinking"/>
 
 <br/>
 
@@ -262,7 +264,7 @@
 
 <div align="center" id="quest-log">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=📜%20QUEST%20LOG&fontSize=22&fontColor=888888&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=📜%20QUEST%20LOG&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -290,7 +292,7 @@
 
 <div align="center" id="achievement-hall">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=🏆%20ACHIEVEMENT%20HALL&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=🏆%20ACHIEVEMENT%20HALL&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -313,7 +315,7 @@
 
 <div align="center" id="arcade-zone">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:FF2D2D,60:FF2D2D,100:050505&height=110&section=header&text=🕹️%20ARCADE%20ZONE&fontSize=40&fontColor=FF2D2D&animation=scaleIn&desc=7%20Neon%20Games%20%C2%B7%20Powered%20By%20Your%20Commits&descSize=13&descAlignY=76&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:050505&height=110&section=header&text=🕹️%20ARCADE%20ZONE&fontSize=40&fontColor=FFFFFF&animation=scaleIn&desc=7%20Arcade%20Games%20%C2%B7%20Powered%20By%20Your%20Commits&descSize=13&descAlignY=76&descAlign=50"/>
 
 <br/>
 
@@ -336,7 +338,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg" width="780"/>
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=🐍%20SNAKE&fontSize=18&fontColor=FF2D2D"/>
@@ -344,7 +346,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg" width="780"/>
+  <img alt="Snake" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=🧱%20BREAKOUT&fontSize=18&fontColor=FF2D2D"/>
@@ -352,7 +354,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg">
-  <img alt="Breakout" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg" width="780"/>
+  <img alt="Breakout" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=🚀%20GALAGA&fontSize=18&fontColor=FF2D2D"/>
@@ -360,7 +362,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg">
-  <img alt="Galaga" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg" width="780"/>
+  <img alt="Galaga" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=🫧%20PUZZLE%20BOBBLE&fontSize=18&fontColor=FF2D2D"/>
@@ -368,7 +370,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="Puzzle Bobble" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg" width="780"/>
+  <img alt="Puzzle Bobble" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=💣%20BOMBERMAN&fontSize=18&fontColor=FF2D2D"/>
@@ -376,7 +378,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg" width="780"/>
+  <img alt="Bomberman" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,18,12&height=40&section=header&text=💠%20MINESWEEPER&fontSize=18&fontColor=FF2D2D"/>
@@ -384,7 +386,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg">
-  <img alt="Minesweeper" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg" width="780"/>
+  <img alt="Minesweeper" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph-dark.svg" width="780"/>
 </picture>
 
 </div>
@@ -395,7 +397,7 @@
 
 <div align="center" id="meme-zone">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=😂%20MEME%20LOUNGE&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=😂%20MEME%20LOUNGE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
@@ -419,13 +421,13 @@
 
 <div align="center" id="credits">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=🎬%20GAME%20CREDITS&fontSize=22&fontColor=FF2D2D&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24,18,12&height=52&section=header&text=🎬%20GAME%20CREDITS&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://linkedin.com/in/amansafwan)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=050505)](https://pinterest.com/AmanSafwan)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=050505)](https://reddit.com/user/Real_Tradition3349)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF2D2D&labelColor=050505)](https://linkedin.com/in/amansafwan)
+[![Pinterest](https://img.shields.io/badge/Pinterest-1A1A1A?style=for-the-badge&logo=pinterest&logoColor=FF2D2D&labelColor=050505)](https://pinterest.com/AmanSafwan)
+[![Reddit](https://img.shields.io/badge/Reddit-1A1A1A?style=for-the-badge&logo=reddit&logoColor=FF2D2D&labelColor=050505)](https://reddit.com/user/Real_Tradition3349)
 
 <br/><br/>
 
@@ -444,6 +446,6 @@
 
 <br/>
 
-**Built with 💜 by Aman Safwan · Dark Dev Arcade v6 · Gen-Z Pro Coder · Live · 7 Games · Auto-Sync 4h**
+**Built with 💜 by Aman Safwan · Dark Dev Arcade v6.1 · Live Feed · HUD · Arcade x7 · Memes · Trophies · Auto-Sync 4h**
 
 </div>

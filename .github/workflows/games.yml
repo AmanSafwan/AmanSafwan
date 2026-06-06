@@ -111,6 +111,10 @@ jobs:
           outputs: |
             dist/snake-animated.gif?color_snake=00f5ff&color_dots=#0d0221,#1a0533,#4a148c,#7b2ff7,#ff00ea&color_background=0d0221
 
+      - name: generate activity graph
+        run: |
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?user=${{ github.repository_owner }}&theme=react&hide_border=true&bg_color=0D0221&color=00F5FF&line=FF00EA&point=39FF14&area=true" -o dist/activity-graph.svg
+
       - name: push profile assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

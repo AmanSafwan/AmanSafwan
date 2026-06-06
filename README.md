@@ -39,11 +39,23 @@
 
 [![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=5&color=6)](https://visitcount.itsvg.in)
 
+<br/>
+
+**🎛️ MISSION CONTROL — JUMP TO SECTOR**
+
+| 🎬 | 🎠 | 🧠 | ⚔️ | 🏆 | 📜 | 🕹️ | 🎁 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| [Live](#live-snake) | [Vibes](#meme-reel) | [Profile](#player-profile) | [Loadout](#weapon-loadout) | [Hall](#achievement-hall) | [Quests](#quest-log) | [Arcade](#arcade-zone) | [Vault](#meme-vault) |
+
+![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221)
+![Last Commit](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=flat-square&label=LAST%20SAVE&color=39FF14&labelColor=0d0221)
+![Workflow](https://img.shields.io/github/actions/workflow/status/AmanSafwan/AmanSafwan/games.yml?style=flat-square&label=SYSTEMS&color=00F5FF&labelColor=0d0221)
+
 </div>
 
 <!-- 🎬 AUTO-PLAY SNAKE GIF — updates from your real contribution graph -->
 
-<div align="center">
+<div align="center" id="live-snake">
 
 <img src="https://capsule-render.vercel.app/api?type=blinking&color=0:0d0221,100:4a148c&height=50&section=header&text=🎬%20LIVE%20SNAKE%20ANIMATION%20—%20AUTO-PLAY&fontSize=18&fontColor=39ff14&animation=blinking"/>
 
@@ -59,12 +71,18 @@
 
 <!-- 🎠 MEME CAROUSEL REEL -->
 
-<div align="center">
+<div align="center" id="meme-reel">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🎠%20MEME%20%26%20VIBE%20REEL&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
 
+<sub>🔄 <b>3 vibe channels</b> — click a track to shuffle the reel (carousel-style)</sub>
+
 </div>
 
+<br/>
+
+<details open>
+<summary><b>🎵 TRACK 01 — DEV GRIND MODE</b></summary>
 <br/>
 
 <table width="100%">
@@ -93,23 +111,83 @@
 </tr>
 </table>
 
+</details>
+
 <br/>
 
-<div align="center">
+<details>
+<summary><b>🎵 TRACK 02 — BOSS FIGHT / ESPORTS</b></summary>
+<br/>
 
-**🔊 BOSS MUSIC INTENSIFIES**
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="70%" alt="Boss fight music"/>
+**🔊 BOSS MUSIC**
 
-<sub>*(GitHub doesn't support audio — but the vibes are at MAX volume)* 🎧</sub>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="Boss fight music"/>
 
-</div>
+</td>
+<td width="33%" align="center">
+
+**🏆 VICTORY ROYALE**
+
+<img src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" width="100%" alt="Victory"/>
+
+</td>
+<td width="33%" align="center">
+
+**⚡ ULTRA INSTINCT**
+
+<img src="https://media.giphy.com/media/l0MYGb5OaFeZ3B6kM/giphy.gif" width="100%" alt="Ultra instinct"/>
+
+</td>
+</tr>
+</table>
+
+<sub>*(GitHub can't play audio — imagine epic OST at MAX volume)* 🎧</sub>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎵 TRACK 03 — IT / HACKER VIBES</b></summary>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**💻 TERMINAL WARRIOR**
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Hacker typing"/>
+
+</td>
+<td width="33%" align="center">
+
+**🌐 CYBERPUNK NET**
+
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" alt="Cyberpunk"/>
+
+</td>
+<td width="33%" align="center">
+
+**🐛 DEBUG MODE**
+
+<img src="https://media.giphy.com/media/Q67YPOfYsyWowg0Xlg/giphy.gif" width="100%" alt="Debugging"/>
+
+</td>
+</tr>
+</table>
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
 
 <!-- 🧠 PLAYER PROFILE -->
 
-<div align="center">
+<div align="center" id="player-profile">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🧠%20PLAYER%20PROFILE&fontSize=24&fontColor=00f5ff&animation=fadeIn"/>
 
@@ -172,6 +250,16 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <div align="center">
 
+**📈 LIVE ACTIVITY RADAR** *(auto-refreshes every 12h)*
+
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/activity-graph.svg" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 **🎲 AUTO-RANDOM DEV JOKE** *(refreshes on every profile visit)*
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random dev joke"/>
@@ -182,7 +270,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <!-- ⚔️ LOADOUT -->
 
-<div align="center">
+<div align="center" id="weapon-loadout">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=⚔️%20WEAPON%20LOADOUT&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
 
@@ -245,7 +333,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <!-- 🏆 ACHIEVEMENTS -->
 
-<div align="center">
+<div align="center" id="achievement-hall">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🏆%20ACHIEVEMENT%20HALL&fontSize=24&fontColor=39ff14&animation=fadeIn"/>
 
@@ -259,7 +347,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <!-- 📜 QUEST LOG -->
 
-<div align="center">
+<div align="center" id="quest-log">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=📜%20QUEST%20LOG&fontSize=24&fontColor=00f5ff&animation=fadeIn"/>
 
@@ -356,7 +444,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <!-- 🕹️ ARCADE ZONE — ALL 7 GAMES FULL DISPLAY -->
 
-<div align="center">
+<div align="center" id="arcade-zone">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a148c,100:0d0221&height=110&section=header&text=🕹️%20ARCADE%20ZONE&fontSize=42&fontColor=ff00ea&animation=scaleIn&desc=7%20Games%20%C2%B7%20All%20Visible%20%C2%B7%20Auto-Refresh%20Every%2012h&descSize=14&descAlignY=78&descAlign=50"/>
 
@@ -442,7 +530,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <!-- 🎁 MEME VAULT + FOOTER -->
 
-<div align="center">
+<div align="center" id="meme-vault">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🎁%20MEME%20VAULT&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
 
@@ -517,6 +605,8 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 [![GitHub followers](https://img.shields.io/github/followers/AmanSafwan?label=Followers&style=social)](https://github.com/AmanSafwan?tab=followers)
 
-**Built with 💜 by Aman Safwan · 7 Arcade Games · Auto GIF · Auto Jokes · Auto Stats**
+**Built with 💜 by Aman Safwan · 7 Arcade Games · Live GIF · Activity Radar · 3 Vibe Tracks · Auto Everything**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AmanSafwan&label=PROFILE%20VIEWS&color=7B2FF7&style=flat-square)](https://github.com/AmanSafwan)
 
 </div>

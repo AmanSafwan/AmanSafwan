@@ -34,8 +34,8 @@
 ![XP](https://img.shields.io/badge/XP-GRINDING-7B2FF7?style=for-the-badge&labelColor=0d0221)
 ![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=00F5FF&logo=github)
 ![Party](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=39FF14&logo=github)
-![Live](https://img.shields.io/badge/LIVE-FEED-ON-FF00EA?style=for-the-badge&labelColor=0d0221&logo=pulse&logoColor=white)
-![Auto](https://img.shields.io/badge/AUTO-SYNC-4H-39FF14?style=for-the-badge&labelColor=0d0221&logo=githubactions&logoColor=white)
+![Live](https://img.shields.io/badge/LIVE-FEED-ON-FF00EA?style=for-the-badge&labelColor=0d0221)
+![Auto](https://img.shields.io/badge/AUTO-SYNC-4H-39FF14?style=for-the-badge&labelColor=0d0221)
 
 [![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -89,7 +89,7 @@
 
 ![Commits](https://img.shields.io/github/commit-activity/m/AmanSafwan/AmanSafwan?style=for-the-badge&label=COMMITS%20THIS%20MONTH&color=39FF14&labelColor=0d0221)
 ![Activity](https://img.shields.io/github/commit-activity/y/AmanSafwan/AmanSafwan?style=for-the-badge&label=COMMITS%20THIS%20YEAR&color=00F5FF&labelColor=0d0221)
-![PRs](https://img.shields.io/github/issues-prs-raw/AmanSafwan/AmanSafwan?style=for-the-badge&label=ISSUES%20%26%20PRS&color=7B2FF7&labelColor=0d0221)
+![Issues](https://img.shields.io/github/issues/AmanSafwan/AmanSafwan?style=for-the-badge&label=ISSUES&color=7B2FF7&labelColor=0d0221)
 ![Last Save](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=for-the-badge&label=LAST%20SAVE&color=FF00EA&labelColor=0d0221)
 
 <br/>

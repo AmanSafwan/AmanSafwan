@@ -20,13 +20,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate snake svg and animated gif
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake-animated.gif?color_snake=00f5ff&color_dots=#0d0221,#1a0533,#4a148c,#7b2ff7,#ff00ea&color_background=0d0221
 
       - name: generate arcade contribution games
         uses: abozanona/pacman-contribution-graph@main

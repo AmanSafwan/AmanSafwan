@@ -126,11 +126,19 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/stats.svg" width="260" alt="GitHub stats"/>
-  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/streak.svg" width="260" alt="GitHub streak"/>
-  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/top-langs.svg" width="260" alt="Top languages"/>
-</p>
+<table align="center">
+  <tr>
+    <td width="260" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/stats.svg" width="250" alt="GitHub stats"/>
+    </td>
+    <td width="260" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/streak.svg" width="250" alt="GitHub streak"/>
+    </td>
+    <td width="260" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/top-langs.svg" width="250" alt="Top languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 

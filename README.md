@@ -43,9 +43,9 @@
 
 **🎛️ MISSION CONTROL — JUMP TO SECTOR**
 
-| 🎬 | 🎠 | 🧠 | ⚔️ | 🏆 | 📜 | 🕹️ | 🎁 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [Live](#live-snake) | [Vibes](#meme-reel) | [Profile](#player-profile) | [Loadout](#weapon-loadout) | [Hall](#achievement-hall) | [Quests](#quest-log) | [Arcade](#arcade-zone) | [Vault](#meme-vault) |
+| 🎬 | 😂 | 🧠 | ⚔️ | 🏆 | 📜 | 🕹️ |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| [Live](#live-snake) | [Memes](#meme-zone) | [Profile](#player-profile) | [Loadout](#weapon-loadout) | [Hall](#achievement-hall) | [Quests](#quest-log) | [Arcade](#arcade-zone) |
 
 ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221)
 ![Last Commit](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=flat-square&label=LAST%20SAVE&color=39FF14&labelColor=0d0221)
@@ -69,119 +69,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
 
-<!-- 🎠 MEME CAROUSEL REEL -->
+<!-- 😂 MEME ZONE -->
 
-<div align="center" id="meme-reel">
+<div align="center" id="meme-zone">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🎠%20MEME%20%26%20VIBE%20REEL&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=😂%20MEME%20ZONE&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
 
-<sub>🔄 <b>3 vibe channels</b> — click a track to shuffle the reel (carousel-style)</sub>
+<br/><br/>
+
+![Coding](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/01-coding.gif)
+
+![Typing](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/02-typing.gif)
+
+![Boss Music](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/03-boss.gif)
+
+![Victory](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/04-victory.gif)
+
+![Matrix](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/05-matrix.gif)
+
+![Nice](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/09-nice.gif)
 
 </div>
-
-<br/>
-
-<details open>
-<summary><b>🎵 TRACK 01 — DEV GRIND MODE</b></summary>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**⌨️ DEV MODE**
-
-<img src="https://i.giphy.com/eYilisUwipOEM.gif" width="280" alt="Coding vibes"/>
-
-</td>
-<td width="33%" align="center">
-
-**🎮 LEVEL UP**
-
-<img src="https://i.giphy.com/LXONhtCmW5s2w.gif" width="280" alt="Level up"/>
-
-</td>
-<td width="33%" align="center">
-
-**🤖 AI MATRIX**
-
-<img src="https://i.giphy.com/o0zd7OqH5UWDC.gif" width="280" alt="Matrix code"/>
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🎵 TRACK 02 — BOSS FIGHT / ESPORTS</b></summary>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**🔊 BOSS MUSIC**
-
-<img src="https://i.giphy.com/3o7abKhOpu0NwenH3O.gif" width="280" alt="Boss fight music"/>
-
-</td>
-<td width="33%" align="center">
-
-**🏆 VICTORY ROYALE**
-
-<img src="https://i.giphy.com/Is1O1TWV0LEJi.gif" width="280" alt="Victory"/>
-
-</td>
-<td width="33%" align="center">
-
-**⚡ ULTRA INSTINCT**
-
-<img src="https://i.giphy.com/l0MYGb5OaFeZ3B6kM.gif" width="280" alt="Ultra instinct"/>
-
-</td>
-</tr>
-</table>
-
-<sub>*(GitHub can't play audio — imagine epic OST at MAX volume)* 🎧</sub>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🎵 TRACK 03 — IT / HACKER VIBES</b></summary>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**💻 TERMINAL WARRIOR**
-
-<img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" width="280" alt="Hacker typing"/>
-
-</td>
-<td width="33%" align="center">
-
-**🌐 CYBERPUNK NET**
-
-<img src="https://i.giphy.com/26BRuo6sLetdllPAQ.gif" width="280" alt="Cyberpunk"/>
-
-</td>
-<td width="33%" align="center">
-
-**🐛 DEBUG MODE**
-
-<img src="https://i.giphy.com/Q67YPOfYsyWowg0Xlg.gif" width="280" alt="Debugging"/>
-
-</td>
-</tr>
-</table>
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
 
@@ -434,7 +342,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <br/><br/>
 
-<img src="https://i.giphy.com/13GIgrGdslDkPQ.gif" width="320" alt="Star wars coding"/>
+![Bonus Loot](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/04-victory.gif)
 
 </td>
 </tr>
@@ -528,58 +436,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
 
-<!-- 🎁 MEME VAULT + FOOTER -->
-
-<div align="center" id="meme-vault">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🎁%20MEME%20VAULT&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
-
-</div>
-
-<br/>
-
-<details open>
-<summary><b>🃏 Click to shuffle — Developer Meme Collection</b></summary>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://i.giphy.com/Q67YPOfYsyWowg0Xlg.gif" width="380" alt="Debugging meme"/>
-
-*When the code works on the first try*
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://i.giphy.com/26tn33zTiRb6lB4IY.gif" width="380" alt="Success meme"/>
-
-*When CI passes on the first push*
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" width="380" alt="Hacker typing"/>
-
-*Me pushing to production at 3 AM*
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://i.giphy.com/3o6Zt4HU9qB8l6T3Es.gif" width="380" alt="Celebration"/>
-
-*When GitHub Actions finally succeeds*
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
+<!-- FOOTER -->
 
 <div align="center">
 
@@ -605,7 +462,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 [![GitHub followers](https://img.shields.io/github/followers/AmanSafwan?label=Followers&style=social)](https://github.com/AmanSafwan?tab=followers)
 
-**Built with 💜 by Aman Safwan · 7 Arcade Games · Live GIF · Activity Radar · 3 Vibe Tracks · Auto Everything**
+**Built with 💜 by Aman Safwan · 7 Arcade Games · Live GIF · Activity Radar · Auto Everything**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AmanSafwan&label=PROFILE%20VIEWS&color=7B2FF7&style=flat-square)](https://github.com/AmanSafwan)
 

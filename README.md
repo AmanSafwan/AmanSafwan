@@ -1,10 +1,10 @@
 <div align="center">
 
-![banner](img/github-header-banner%20(1).png)
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/github-header-banner%20(1).png" width="100%" alt="Aman Safwan banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5a&height=120&section=header&text=Aman%20Safwan&fontSize=42&fontColor=e2e8f0&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Data%20Scientist&descSize=16&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5a&height=120&section=header&text=Aman%20Safwan&fontSize=42&fontColor=e2e8f0&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Scientist&descSize=16&descAlignY=60&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Final+Year+Computer+Science+Student+%40+UniSZA;Building+Intelligent+%26+Data-Driven+Systems;Passionate+about+AI%2C+ML+%26+Software+Architecture;Turning+Complex+Problems+into+Elegant+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Final+Year+Computer+Science+Student+%40+UniSZA;Building+Intelligent+%26+Data-Driven+Systems;Passionate+about+AI%2C+ML+%26+Software+Architecture;Turning+Complex+Problems+into+Elegant+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,7 +13,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanSafwan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwanaman2003@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=AmanSafwan&label=Profile%20Views&color=0e7490&style=for-the-badge" alt="Profile views"/>
+<br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=Public%20Repos&color=0e7490&logo=github)
+![Followers](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=Followers&color=0e7490&logo=github)
+![Location](https://img.shields.io/badge/Location-Malaysia-0e7490?style=for-the-badge&logo=google-maps&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -60,9 +66,9 @@ Software engineer in the making with a sharp focus on **artificial intelligence*
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmanSafwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&rank_icon=percentile&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165"/>
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/stats.svg" height="165" alt="GitHub stats"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSafwan&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165"/>
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/streak.svg" height="165" alt="GitHub streak"/>
 
 </td>
 </tr>
@@ -116,15 +122,11 @@ Software engineer in the making with a sharp focus on **artificial intelligence*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSafwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="180"/>
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/top-langs.svg" height="180" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSafwan&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSafwan&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSafwan&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 
 </div>
 
@@ -150,24 +152,32 @@ Software engineer in the making with a sharp focus on **artificial intelligence*
 <tr>
 <td width="50%">
 
-[![OphthaMind](https://github-readme-stats.vercel.app/api/pin/?username=AmanSafwan&repo=ophthamind-eye-disease-classification&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/AmanSafwan/ophthamind-eye-disease-classification)
+<a href="https://github.com/AmanSafwan/ophthamind-eye-disease-classification">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-ophthamind.svg" alt="OphthaMind"/>
+</a>
 
 </td>
 <td width="50%">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AmanSafwan&repo=portfolio-aman&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/AmanSafwan/portfolio-aman)
+<a href="https://github.com/AmanSafwan/portfolio-aman">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-portfolio.svg" alt="Portfolio"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Retail Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=AmanSafwan&repo=Retail-Sales-Intelligence-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/AmanSafwan/Retail-Sales-Intelligence-System)
+<a href="https://github.com/AmanSafwan/Retail-Sales-Intelligence-System">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-retail.svg" alt="Retail Intelligence"/>
+</a>
 
 </td>
 <td width="50%">
 
-[![Restaurant API](https://github-readme-stats.vercel.app/api/pin/?username=AmanSafwan&repo=CSW33903-RESTAURANT-MENU-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/AmanSafwan/CSW33903-RESTAURANT-MENU-API)
+<a href="https://github.com/AmanSafwan/CSW33903-RESTAURANT-MENU-API">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-restaurant.svg" alt="Restaurant API"/>
+</a>
 
 </td>
 </tr>
@@ -178,38 +188,96 @@ Software engineer in the making with a sharp focus on **artificial intelligence*
 ## `> expertise_map`
 
 ```text
-  AI / ML Engineering     ████████████████████░░  90%
+  AI / ML Engineering      ████████████████████░░  90%
   Data Science & Analytics ██████████████████░░░░  85%
-  Backend & API Design    ████████████████░░░░░░  80%
-  Full-Stack Development  ███████████████░░░░░░░  75%
-  Database Engineering    ██████████████░░░░░░░░  70%
-  DevOps & Automation     ████████████░░░░░░░░░░  60%
+  Backend & API Design     ████████████████░░░░░░  80%
+  Full-Stack Development   ███████████████░░░░░░░  75%
+  Database Engineering     ██████████████░░░░░░░░  70%
+  DevOps & Automation      ████████████░░░░░░░░░░  60%
 ```
 
 <br/>
 
-## `> play_games`
+## `> arcade_zone`
 
-> Interactive contribution graph games — powered by GitHub Actions
+> **7 interactive games** on your contribution graph — auto-updated every 12 hours via GitHub Actions. Click each game to expand.
 
+<details open>
+<summary><b>👻 Pac-Man</b> — Eat contributions, outsmart ghosts</summary>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
+</details>
 
+<details>
+<summary><b>🐍 Snake</b> — Slither through your commit history</summary>
 <br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg">
   <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg" width="100%"/>
 </picture>
+</details>
+
+<details>
+<summary><b>🧱 Breakout</b> — Smash contribution bricks with a bouncing ball</summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg" width="100%"/>
+</picture>
+</details>
+
+<details>
+<summary><b>🚀 Galaga</b> — Blast through your contribution grid</summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg" width="100%"/>
+</picture>
+</details>
+
+<details>
+<summary><b>🫧 Puzzle Bobble</b> — Pop matching contribution clusters</summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg" width="100%"/>
+</picture>
+</details>
+
+<details>
+<summary><b>💣 Bomberman</b> — Blast contribution cells across the grid</summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg" width="100%"/>
+</picture>
+</details>
+
+<details>
+<summary><b>💠 Minesweeper</b> — Clear cells, flag mines, survive the grid</summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg">
+  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg" width="100%"/>
+</picture>
+</details>
 
 <br/>
 
+## `> live_feed`
+
 <details>
-<summary><b>More — Connect & Social</b></summary>
+<summary><b>Connect & Social</b></summary>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansafwan)
@@ -233,6 +301,5 @@ Software engineer in the making with a sharp focus on **artificial intelligence*
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AmanSafwan?label=Followers&style=social)](https://github.com/AmanSafwan?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AmanSafwan?label=Total%20Stars&style=social)](https://github.com/AmanSafwan)
 
 </div>

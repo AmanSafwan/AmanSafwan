@@ -1,4 +1,4 @@
-name: Generate profile games
+name: Generate profile assets
 
 on:
   schedule:
@@ -15,9 +15,11 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
 
     steps:
+      - uses: actions/checkout@v4
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,13 +28,68 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: generate pacman-contribution-graph.svg
+      - name: generate arcade contribution games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman
+          games: pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper
 
-      - name: push game SVGs to the output branch
+      - name: generate github stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate project pin cards
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ophthamind-eye-disease-classification&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9
+          path: dist/pin-ophthamind.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate portfolio pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=portfolio-aman&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9
+          path: dist/pin-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate retail intelligence pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Retail-Sales-Intelligence-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9
+          path: dist/pin-retail.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate restaurant api pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=CSW33903-RESTAURANT-MENU-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9
+          path: dist/pin-restaurant.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: push profile assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

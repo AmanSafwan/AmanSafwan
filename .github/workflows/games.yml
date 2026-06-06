@@ -1,4 +1,4 @@
-﻿name: Generate profile assets
+name: Generate profile assets
 
 on:
   schedule:
@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=00d4ff&color_dots=#0b0f14,#151b24,#1f2937,#2a3441,#00d4ff&color_background=0b0f14
-            dist/snake-dark.svg?color_snake=00d4ff&color_dots=#0b0f14,#151b24,#1f2937,#2a3441,#00d4ff&color_background=0b0f14&palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: generate arcade contribution games
         uses: abozanona/pacman-contribution-graph@main
@@ -38,7 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=chart&hide_border=true&include_all_commits=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,21 +46,21 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=chart&hide_border=true&langs_count=8&bg_color=0b0f14&title_color=E6EDF3&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d0221&title_color=00f5ff&text_color=e0e0e0
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: generate streak stats card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0B0F14&ring=00D4FF&fire=00D4FF&currStreakLabel=E6EDF3&sideLabels=7D8B9A&dates=4B5563
+          options: user=${{ github.repository_owner }}&theme=radical&hide_border=true&background=0D0221&ring=00F5FF&fire=FF00EA&currStreakLabel=00F5FF
           path: dist/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: username=${{ github.repository_owner }}&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&rank=E6EDF3,00D4FF,7D8B9A,4B5563,2A3441
+          options: username=${{ github.repository_owner }}&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10
           path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -68,7 +68,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=ophthamind-eye-disease-classification&theme=chart&hide_border=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&repo=ophthamind-eye-disease-classification&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/pin-ophthamind.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -76,7 +76,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=portfolio-aman&theme=chart&hide_border=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&repo=portfolio-aman&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/pin-portfolio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -84,7 +84,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Retail-Sales-Intelligence-System&theme=chart&hide_border=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&repo=Retail-Sales-Intelligence-System&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/pin-retail.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -92,7 +92,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=CSW33903-RESTAURANT-MENU-API&theme=chart&hide_border=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&repo=CSW33903-RESTAURANT-MENU-API&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/pin-restaurant.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -100,24 +100,24 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=CSD34403_AdvancedDatabase_GroupProject&theme=chart&hide_border=true&bg_color=0b0f14&title_color=E6EDF3&icon_color=00D4FF&text_color=7D8B9A&border_radius=8
+          options: username=${{ github.repository_owner }}&repo=CSD34403_AdvancedDatabase_GroupProject&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ea&text_color=e0e0e0
           path: dist/pin-database.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: generate activity graph
-        run: |
-          curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=github_dark" -o dist/activity-graph.svg
-
-      - name: generate live score summary
-        run: |
-          curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${{ github.repository_owner }}&theme=github_dark" -o dist/score-summary.svg
 
       - name: generate snake animated gif
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-animated.gif?color_snake=00d4ff&color_dots=#0b0f14,#151b24,#1f2937,#2a3441,#00d4ff&color_background=0b0f14
+            dist/snake-animated.gif?color_snake=00f5ff&color_dots=#0d0221,#1a0533,#4a148c,#7b2ff7,#ff00ea&color_background=0d0221
+
+      - name: generate activity graph
+        run: |
+          curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=radical" -o dist/activity-graph.svg
+
+      - name: generate live score summary
+        run: |
+          curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${{ github.repository_owner }}&theme=radical" -o dist/score-summary.svg
 
       - name: write sync timestamp
         run: echo "$(date -u +'%Y-%m-%d %H:%M UTC')" > dist/last-sync.txt

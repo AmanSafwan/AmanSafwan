@@ -91,21 +91,21 @@
 
 **⌨️ DEV MODE**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHk5ZXR3ZWozZGM1cTRieWF3aHB6MjU3ZTFhajR0NmtxNmtuczA1ciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/eYilisUwipOEM/giphy.gif" width="100%" alt="Coding vibes"/>
+<img src="https://i.giphy.com/eYilisUwipOEM.gif" width="280" alt="Coding vibes"/>
 
 </td>
 <td width="33%" align="center">
 
 **🎮 LEVEL UP**
 
-<img src="https://media.giphy.com/media/LXONhtCmW5s2w/giphy.gif" width="100%" alt="Level up"/>
+<img src="https://i.giphy.com/LXONhtCmW5s2w.gif" width="280" alt="Level up"/>
 
 </td>
 <td width="33%" align="center">
 
 **🤖 AI MATRIX**
 
-<img src="https://media.giphy.com/media/o0zd7OqH5UWDC/giphy.gif" width="100%" alt="Matrix code"/>
+<img src="https://i.giphy.com/o0zd7OqH5UWDC.gif" width="280" alt="Matrix code"/>
 
 </td>
 </tr>
@@ -125,21 +125,21 @@
 
 **🔊 BOSS MUSIC**
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="Boss fight music"/>
+<img src="https://i.giphy.com/3o7abKhOpu0NwenH3O.gif" width="280" alt="Boss fight music"/>
 
 </td>
 <td width="33%" align="center">
 
 **🏆 VICTORY ROYALE**
 
-<img src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" width="100%" alt="Victory"/>
+<img src="https://i.giphy.com/Is1O1TWV0LEJi.gif" width="280" alt="Victory"/>
 
 </td>
 <td width="33%" align="center">
 
 **⚡ ULTRA INSTINCT**
 
-<img src="https://media.giphy.com/media/l0MYGb5OaFeZ3B6kM/giphy.gif" width="100%" alt="Ultra instinct"/>
+<img src="https://i.giphy.com/l0MYGb5OaFeZ3B6kM.gif" width="280" alt="Ultra instinct"/>
 
 </td>
 </tr>
@@ -161,21 +161,21 @@
 
 **💻 TERMINAL WARRIOR**
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Hacker typing"/>
+<img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" width="280" alt="Hacker typing"/>
 
 </td>
 <td width="33%" align="center">
 
 **🌐 CYBERPUNK NET**
 
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" alt="Cyberpunk"/>
+<img src="https://i.giphy.com/26BRuo6sLetdllPAQ.gif" width="280" alt="Cyberpunk"/>
 
 </td>
 <td width="33%" align="center">
 
 **🐛 DEBUG MODE**
 
-<img src="https://media.giphy.com/media/Q67YPOfYsyWowg0Xlg/giphy.gif" width="100%" alt="Debugging"/>
+<img src="https://i.giphy.com/Q67YPOfYsyWowg0Xlg.gif" width="280" alt="Debugging"/>
 
 </td>
 </tr>
@@ -434,7 +434,7 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/13GIgrGdslDkPQ/giphy.gif" width="80%" alt="Star wars coding"/>
+<img src="https://i.giphy.com/13GIgrGdslDkPQ.gif" width="320" alt="Star wars coding"/>
 
 </td>
 </tr>
@@ -546,14 +546,14 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 <tr>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/Q67YPOfYsyWowg0Xlg/giphy.gif" width="90%" alt="Debugging meme"/>
+<img src="https://i.giphy.com/Q67YPOfYsyWowg0Xlg.gif" width="380" alt="Debugging meme"/>
 
 *When the code works on the first try*
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/26tn33zTiRb6lB4IY/giphy.gif" width="90%" alt="Success meme"/>
+<img src="https://i.giphy.com/26tn33zTiRb6lB4IY.gif" width="380" alt="Success meme"/>
 
 *When CI passes on the first push*
 
@@ -562,14 +562,14 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 <tr>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90%" alt="Hacker typing"/>
+<img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" width="380" alt="Hacker typing"/>
 
 *Me pushing to production at 3 AM*
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/3o6Zt4HU9qB8l6T3Es/giphy.gif" width="90%" alt="Celebration"/>
+<img src="https://i.giphy.com/3o6Zt4HU9qB8l6T3Es.gif" width="380" alt="Celebration"/>
 
 *When GitHub Actions finally succeeds*
 

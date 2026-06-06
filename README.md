@@ -1,25 +1,23 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--   🎮 CYBER DEV ARCADE v2.0 — AMAN SAFWAN — AUTO-UPDATING PROFILE   -->
+<!--        🎮 CYBER DEV ARCADE v3.0 — PRO GAMING PROFILE HUD           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/github-header-banner%20(1).png" width="100%" alt="Aman Safwan banner"/>
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/github-header-banner%20(1).png" width="800" alt="Aman Safwan banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:4a148c,100:0d0221&height=170&section=header&text=Aman%20Safwan&fontSize=50&fontColor=00f5ff&animation=scaleIn&fontAlignY=32&desc=AI%20%C2%B7%20ML%20%C2%B7%20Gaming%20%C2%B7%20Full-Stack&descSize=16&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:4a148c,100:0d0221&height=160&section=header&text=Aman%20Safwan&fontSize=48&fontColor=00f5ff&animation=scaleIn&fontAlignY=35&desc=Cyber%20AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Gamer%20Dev&descSize=15&descAlignY=62&descAlign=50"/>
 
 ```diff
-+ ╔══════════════════════════════════════════════════════════════════╗
-+ ║  🎮 PLAYER: AmanSafwan     CLASS: Cyber AI Engineer              ║
-+ ║  🌍 GUILD: UniSZA · MY     STATUS: ⚡ AUTO-UPDATING PROFILE       ║
-+ ╚══════════════════════════════════════════════════════════════════╝
++╔══════════════════════════════════════════════════════════════╗
++║  🎮 PLAYER: AmanSafwan    CLASS: Cyber AI Engineer           ║
++║  🌍 GUILD: UniSZA · MY    MODE: AUTO-UPDATE · 7 ARCADE      ║
++╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=800&color=00F5FF&center=true&vCenter=true&random=false&width=950&lines=PRESS%20START%20TO%20CODE...;7%20LIVE%20ARCADE%20GAMES%20ON%20YOUR%20GITHUB;AI%20%2B%20ML%20%2B%20DATA%20%3D%20ULTIMATE%20LOADOUT;AUTO-REFRESH%20EVERY%2012%20HOURS%20%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=00F5FF&center=true&vCenter=true&random=false&width=800&lines=PRESS%20START%20TO%20CODE...;WELCOME%20TO%20CYBER%20DEV%20ARCADE;AI%20%2B%20ML%20%2B%20DATA%20%3D%20ULTIMATE%20LOADOUT)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=FF00EA&center=true&vCenter=true&random=true&width=950&lines=GRINDING%20commits...;DEPLOYING%20to%20production...;TRAINING%20neural%20networks...;DEBUGGING%20reality...;COMPILING%20greatness...;BOSS%20FIGHT%3A%20Final%20Year%20Project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1400&color=FF00EA&center=true&vCenter=true&random=true&width=800&lines=GRINDING%20commits...;TRAINING%20neural%20networks...;BOSS%20FIGHT%3A%20Final%20Year%20Project;DEBUGGING%20reality...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,193 +30,142 @@
 
 ![Level](https://img.shields.io/badge/LEVEL-∞-00F5FF?style=for-the-badge&labelColor=0d0221)
 ![HP](https://img.shields.io/badge/HP-██████████-39FF14?style=for-the-badge&labelColor=0d0221)
-![MP](https://img.shields.io/badge/MP-COFFEE%20POWERED-FF00EA?style=for-the-badge&labelColor=0d0221)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=7B2FF7&logo=github)
-![Followers](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=00F5FF&logo=github)
-![Auto](https://img.shields.io/badge/AUTO-UPDATE-ON-39FF14?style=for-the-badge&labelColor=0d0221&logo=githubactions&logoColor=white)
+![MP](https://img.shields.io/badge/MP-COFFEE-FF00EA?style=for-the-badge&labelColor=0d0221)
+![XP](https://img.shields.io/badge/XP-GRINDING-7B2FF7?style=for-the-badge&labelColor=0d0221)
+![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=00F5FF&logo=github)
+![Party](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=39FF14&logo=github)
+![Auto](https://img.shields.io/badge/SYSTEMS-ONLINE-39FF14?style=for-the-badge&labelColor=0d0221&logo=githubactions&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<br/>
-
-**🎛️ MISSION CONTROL — JUMP TO SECTOR**
-
-| 🎬 | 😂 | 🧠 | ⚔️ | 🏆 | 📜 | 🕹️ |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [Live](#live-snake) | [Memes](#meme-zone) | [Profile](#player-profile) | [Loadout](#weapon-loadout) | [Hall](#achievement-hall) | [Quests](#quest-log) | [Arcade](#arcade-zone) |
-
-![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221)
-![Last Commit](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=flat-square&label=LAST%20SAVE&color=39FF14&labelColor=0d0221)
-![Workflow](https://img.shields.io/github/actions/workflow/status/AmanSafwan/AmanSafwan/games.yml?style=flat-square&label=SYSTEMS&color=00F5FF&labelColor=0d0221)
-
 </div>
 
-<!-- 🎬 AUTO-PLAY SNAKE GIF — updates from your real contribution graph -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
-<div align="center" id="live-snake">
+<!-- 🎛️ MISSION CONTROL -->
 
-<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:0d0221,100:4a148c&height=50&section=header&text=🎬%20LIVE%20SNAKE%20ANIMATION%20—%20AUTO-PLAY&fontSize=18&fontColor=39ff14&animation=blinking"/>
+<div align="center" id="mission-control">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:4a148c&height=48&section=header&text=🎛️%20MISSION%20CONTROL&fontSize=20&fontColor=00f5ff"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-animated.gif" width="100%" alt="Live snake eating contribution graph"/>
+[![HUD](https://img.shields.io/badge/⬇️_HUD-00F5FF?style=flat-square&labelColor=0d0221)](#player-hud)
+[![Profile](https://img.shields.io/badge/👤_PROFILE-FF00EA?style=flat-square&labelColor=0d0221)](#player-profile)
+[![Loadout](https://img.shields.io/badge/⚔️_LOADOUT-39FF14?style=flat-square&labelColor=0d0221)](#weapon-loadout)
+[![Quests](https://img.shields.io/badge/📜_QUESTS-7B2FF7?style=flat-square&labelColor=0d0221)](#quest-log)
+[![Hall](https://img.shields.io/badge/🏆_HALL-00F5FF?style=flat-square&labelColor=0d0221)](#achievement-hall)
+[![Arcade](https://img.shields.io/badge/🕹️_ARCADE-FF00EA?style=flat-square&labelColor=0d0221)](#arcade-zone)
+[![Memes](https://img.shields.io/badge/😂_MEMES-39FF14?style=flat-square&labelColor=0d0221)](#meme-zone)
 
-<sub>🔄 <b>Auto-generated</b> from your GitHub commits · Refreshes every 12 hours via GitHub Actions</sub>
+<br/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
-
-<!-- 😂 MEME ZONE -->
-
-<div align="center" id="meme-zone">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=😂%20MEME%20ZONE&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
-
-<br/><br/>
-
-![Coding](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/01-coding.gif)
-
-![Typing](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/02-typing.gif)
-
-![Boss Music](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/03-boss.gif)
-
-![Victory](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/04-victory.gif)
-
-![Matrix](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/05-matrix.gif)
-
-![Nice](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/09-nice.gif)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221)
+![Save](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=flat-square&label=LAST%20SAVE&color=39FF14&labelColor=0d0221)
+![Online](https://img.shields.io/github/actions/workflow/status/AmanSafwan/AmanSafwan/games.yml?style=flat-square&label=ONLINE&color=00F5FF&labelColor=0d0221)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
-<!-- 🧠 PLAYER PROFILE -->
+<!-- 📊 PLAYER HUD -->
+
+<div align="center" id="player-hud">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=📊%20PLAYER%20HUD&fontSize=22&fontColor=39ff14&animation=fadeIn"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/stats.svg" width="260" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/streak.svg" width="260" alt="GitHub streak"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/top-langs.svg" width="260" alt="Top languages"/>
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/activity-graph.svg" width="780" alt="Activity radar"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-animated.gif" width="780" alt="Live snake animation"/>
+
+<sub>🔄 Stats · Streak · Languages · Activity · Snake GIF — auto-refresh every 12h</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
+
+<!-- 👤 PLAYER PROFILE -->
 
 <div align="center" id="player-profile">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🧠%20PLAYER%20PROFILE&fontSize=24&fontColor=00f5ff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=👤%20PLAYER%20PROFILE&fontSize=22&fontColor=00f5ff&animation=fadeIn"/>
 
 </div>
 
 <br/>
 
 ```yaml
-🎮 player_id: AmanSafwan
-⚔️  class:     Cyber AI Engineer · Full-Stack Dev · Data Scientist
-🌍 region:    Malaysia
-🏫 guild:     UniSZA — B.Sc. Computer Science (Software Development)
-🎯 loadout:
-    - Artificial Intelligence & Deep Learning
-    - Machine Learning Pipelines & MLOps
-    - Data Analytics, Mining & Business Intelligence
-    - Full-Stack & API Engineering
-🔥 active_quest:
-    building: OphthaMind — AI-powered eye disease classification
-    learning: Advanced system design & production ML workflows
-    grinding: Clean architecture, testing & deployment
-💬 motto: "Code like a boss. Train models like a scientist. Ship like a pro."
+🎮 player_id:   AmanSafwan
+⚔️  class:       Cyber AI Engineer · Full-Stack · Data Scientist
+🌍 region:      Malaysia 🇲🇾
+🏫 guild:       UniSZA — B.Sc. Computer Science (Software Development)
+🎯 specialty:   AI · ML · Data Analytics · API Engineering
+🔥 main_quest:  OphthaMind — AI eye disease classification
+💬 motto:       "Code like a boss. Train like a scientist. Ship like a pro."
 ```
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🕹️ About the Player
-
-Final-year **Computer Science warrior** at **UniSZA** — building **AI systems**, **data pipelines**, and **full-stack apps** that hit production.
-
-| Stat | Value |
-| :--- | :--- |
-| 🎯 **Specialty** | AI / ML / Data Science |
-| ⚡ **Languages** | Python · Java · PHP · JS |
-| 🛡️ **Stack** | TensorFlow · PyTorch · Flutter |
-| 🏆 **Rank** | Final Boss in Training |
-
-</td>
-<td width="45%" valign="top" align="center">
-
-**📊 STATS HUD**
-
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/stats.svg" width="100%" alt="GitHub stats"/>
-
-<br/>
-
-**🔥 STREAK COMBO**
-
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/streak.svg" width="100%" alt="GitHub streak"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-**📈 LIVE ACTIVITY RADAR** *(contributions timeline · auto-refreshes every 12h)*
+| 🎯 Specialty | ⚡ Languages | 🛡️ Stack | 🏆 Rank |
+| :---: | :---: | :---: | :---: |
+| AI / ML / Data | Python · Java · PHP · JS | TF · PyTorch · Flutter | Final Boss in Training |
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/activity-graph.svg" width="100%" alt="GitHub contribution activity"/>
+<br/>
+
+**🎲 RANDOM DEV JOKE** *(new joke every visit)*
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="500" alt="Dev joke"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
-<div align="center">
-
-**🎲 AUTO-RANDOM DEV JOKE** *(refreshes on every profile visit)*
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random dev joke"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
-
-<!-- ⚔️ LOADOUT -->
+<!-- ⚔️ WEAPON LOADOUT -->
 
 <div align="center" id="weapon-loadout">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=⚔️%20WEAPON%20LOADOUT&fontSize=24&fontColor=ff00ea&animation=fadeIn"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=⚔️%20WEAPON%20LOADOUT&fontSize=22&fontColor=ff00ea&animation=fadeIn"/>
 
 <br/>
 
-<div align="center">
-
 **🗡️ Core Weapons**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql,git,github&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql,git,github&perline=5)](https://skillicons.dev)
 
 <br/>
 
 **🧠 AI / ML Arsenal**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,docker,streamlit&perline=9)](https://skillicons.dev)
-
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0221)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0221)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d0221)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d0221)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d0221)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d0221)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d0221)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,docker,streamlit&perline=5)](https://skillicons.dev)
 
 <br/>
 
 **🛡️ Gear & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,docker,nginx,gcp,figma,selenium,grafana,linux&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flutter,docker,nginx,gcp,figma,selenium,linux&perline=5)](https://skillicons.dev)
 
 <br/>
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=0d0221)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0d0221)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0221)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0221" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0221" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d0221" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d0221" alt="Streamlit"/>
+</p>
 
 <br/>
 
@@ -233,214 +180,189 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
   ⚙️ DevOps & Automation       ████████████░░░░░░░░░░  Lv.60
 ```
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/top-langs.svg" width="60%" alt="Top languages"/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
-<!-- 🏆 ACHIEVEMENTS -->
+<!-- 🎯 CURRENT MISSION -->
 
-<div align="center" id="achievement-hall">
+<div align="center" id="current-mission">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=🏆%20ACHIEVEMENT%20HALL&fontSize=24&fontColor=39ff14&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:0d0221,100:4a148c&height=48&section=header&text=🎯%20CURRENT%20MISSION&fontSize=20&fontColor=39ff14&animation=blinking"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/trophy.svg" width="100%" alt="GitHub achievement trophies"/>
+![Boss](https://img.shields.io/badge/BOSS-OphthaMind-FF00EA?style=for-the-badge&labelColor=0d0221)
+![Type](https://img.shields.io/badge/TYPE-AI%20Medical-00F5FF?style=for-the-badge&labelColor=0d0221)
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-39FF14?style=for-the-badge&labelColor=0d0221)
+
+<br/>
+
+<a href="https://github.com/AmanSafwan/ophthamind-eye-disease-classification">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-ophthamind.svg" width="500" alt="OphthaMind"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
 <!-- 📜 QUEST LOG -->
 
 <div align="center" id="quest-log">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=55&section=header&text=📜%20QUEST%20LOG&fontSize=24&fontColor=00f5ff&animation=fadeIn"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=📜%20QUEST%20LOG&fontSize=22&fontColor=00f5ff&animation=fadeIn"/>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+<p align="center">
+  <a href="https://github.com/AmanSafwan/portfolio-aman"><img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-portfolio.svg" width="360" alt="Portfolio"/></a>
+  <a href="https://github.com/AmanSafwan/Retail-Sales-Intelligence-System"><img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-retail.svg" width="360" alt="Retail"/></a>
+</p>
 
-**🎯 Quest 01 — OphthaMind**
+<p align="center">
+  <a href="https://github.com/AmanSafwan/CSW33903-RESTAURANT-MENU-API"><img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-restaurant.svg" width="360" alt="Restaurant API"/></a>
+  <a href="https://github.com/AmanSafwan/CSD34403_AdvancedDatabase_GroupProject"><img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-database.svg" width="360" alt="Database"/></a>
+</p>
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-★★★★☆-FF00EA?style=flat-square&labelColor=0d0221)
-![Type](https://img.shields.io/badge/TYPE-AI%20%2F%20Medical-00F5FF?style=flat-square&labelColor=0d0221)
-
-<a href="https://github.com/AmanSafwan/ophthamind-eye-disease-classification">
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-ophthamind.svg" width="100%" alt="OphthaMind"/>
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**🎯 Quest 02 — Portfolio**
-
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-★★☆☆☆-39FF14?style=flat-square&labelColor=0d0221)
-![Type](https://img.shields.io/badge/TYPE-Web%20%2F%20Showcase-00F5FF?style=flat-square&labelColor=0d0221)
-
-<a href="https://github.com/AmanSafwan/portfolio-aman">
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-portfolio.svg" width="100%" alt="Portfolio"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**🎯 Quest 03 — Retail Intelligence**
-
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-★★★☆☆-FF00EA?style=flat-square&labelColor=0d0221)
-![Type](https://img.shields.io/badge/TYPE-Data%20Analytics-00F5FF?style=flat-square&labelColor=0d0221)
-
-<a href="https://github.com/AmanSafwan/Retail-Sales-Intelligence-System">
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-retail.svg" width="100%" alt="Retail Intelligence"/>
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**🎯 Quest 04 — Restaurant API**
-
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-★★★☆☆-39FF14?style=flat-square&labelColor=0d0221)
-![Type](https://img.shields.io/badge/TYPE-PHP%20%2F%20REST-00F5FF?style=flat-square&labelColor=0d0221)
-
-<a href="https://github.com/AmanSafwan/CSW33903-RESTAURANT-MENU-API">
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-restaurant.svg" width="100%" alt="Restaurant API"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**🎯 Quest 05 — Advanced Database**
-
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-★★★★☆-FF00EA?style=flat-square&labelColor=0d0221)
-![Type](https://img.shields.io/badge/TYPE-Java%20%2F%20SQL-00F5FF?style=flat-square&labelColor=0d0221)
-
-<a href="https://github.com/AmanSafwan/CSD34403_AdvancedDatabase_GroupProject">
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pin-database.svg" width="100%" alt="Advanced Database"/>
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**🎁 Bonus Loot**
-
-![Status](https://img.shields.io/badge/STATUS-MORE%20COMING-7B2FF7?style=flat-square&labelColor=0d0221)
-![XP](https://img.shields.io/badge/REWARD-%2B500%20XP-39FF14?style=flat-square&labelColor=0d0221)
+<br/>
 
 <a href="https://github.com/AmanSafwan?tab=repositories">
-<img src="https://img.shields.io/badge/🎮_EXPLORE_ALL_QUESTS-00F5FF?style=for-the-badge&labelColor=0d0221" alt="All repos"/>
+  <img src="https://img.shields.io/badge/🎮_EXPLORE_ALL_QUESTS-00F5FF?style=for-the-badge&labelColor=0d0221" alt="All repos"/>
 </a>
 
-<br/><br/>
+</div>
 
-![Bonus Loot](https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/04-victory.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
 
-</td>
-</tr>
-</table>
+<!-- 🏆 ACHIEVEMENT HALL -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
+<div align="center" id="achievement-hall">
 
-<!-- 🕹️ ARCADE ZONE — ALL 7 GAMES FULL DISPLAY -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=🏆%20ACHIEVEMENT%20HALL&fontSize=22&fontColor=39ff14&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/trophy.svg" width="780" alt="GitHub trophies"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
+
+<!-- 🕹️ ARCADE ZONE -->
 
 <div align="center" id="arcade-zone">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a148c,100:0d0221&height=110&section=header&text=🕹️%20ARCADE%20ZONE&fontSize=42&fontColor=ff00ea&animation=scaleIn&desc=7%20Games%20%C2%B7%20All%20Visible%20%C2%B7%20Auto-Refresh%20Every%2012h&descSize=14&descAlignY=78&descAlign=50"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a148c,100:0d0221&height=100&section=header&text=🕹️%20ARCADE%20ZONE&fontSize=38&fontColor=ff00ea&animation=scaleIn&desc=7%20Games%20%C2%B7%20Live%20on%20Your%20Commits&descSize=13&descAlignY=76&descAlign=50"/>
 
 <br/>
 
-> 🪙 **INSERT COIN** — Every game below is a live animated SVG from your contribution graph. No click needed — all games displayed!
+![Pac-Man](https://img.shields.io/badge/👻_PAC--MAN-FFFF00?style=for-the-badge&labelColor=0d0221)
+![Snake](https://img.shields.io/badge/🐍_SNAKE-39FF14?style=for-the-badge&labelColor=0d0221)
+![Breakout](https://img.shields.io/badge/🧱_BREAKOUT-00F5FF?style=for-the-badge&labelColor=0d0221)
+![Galaga](https://img.shields.io/badge/🚀_GALAGA-FF00EA?style=for-the-badge&labelColor=0d0221)
+![Bobble](https://img.shields.io/badge/🫧_BOBBLE-7B2FF7?style=for-the-badge&labelColor=0d0221)
+![Bomber](https://img.shields.io/badge/💣_BOMBERMAN-FF6B35?style=for-the-badge&labelColor=0d0221)
+![Mine](https://img.shields.io/badge/💠_MINESWEEPER-00F5FF?style=for-the-badge&labelColor=0d0221)
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=👻%20PAC-MAN&fontSize=22&fontColor=ffff00&animation=blinking"/></div>
+> 🪙 **INSERT COIN** — All games run from your real GitHub contribution graph
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=👻%20PAC-MAN&fontSize=18&fontColor=ffff00"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg" width="100%"/>
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/pacman-contribution-graph.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=🐍%20SNAKE&fontSize=22&fontColor=39ff14&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=🐍%20SNAKE&fontSize=18&fontColor=39ff14"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg" width="100%"/>
+  <img alt="Snake" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=🧱%20BREAKOUT&fontSize=22&fontColor=00f5ff&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=🧱%20BREAKOUT&fontSize=18&fontColor=00f5ff"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg">
-  <img alt="Breakout" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg" width="100%"/>
+  <img alt="Breakout" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/breakout-contribution-graph.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=🚀%20GALAGA&fontSize=22&fontColor=ff00ea&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=🚀%20GALAGA&fontSize=18&fontColor=ff00ea"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg">
-  <img alt="Galaga" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg" width="100%"/>
+  <img alt="Galaga" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/galaga-contribution-graph.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=🫧%20PUZZLE%20BOBBLE&fontSize=22&fontColor=7b2ff7&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=🫧%20PUZZLE%20BOBBLE&fontSize=18&fontColor=7b2ff7"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="Puzzle Bobble" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg" width="100%"/>
+  <img alt="Puzzle Bobble" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/puzzle-bobble-contribution-graph.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=💣%20BOMBERMAN&fontSize=22&fontColor=ff6b35&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=💣%20BOMBERMAN&fontSize=18&fontColor=ff6b35"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg" width="100%"/>
+  <img alt="Bomberman" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/bomberman-contribution-graph.svg" width="780"/>
 </picture>
 
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=45&section=header&text=💠%20MINESWEEPER&fontSize=22&fontColor=00f5ff&animation=blinking"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0,18,0,6&height=40&section=header&text=💠%20MINESWEEPER&fontSize=18&fontColor=00f5ff"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg">
-  <img alt="Minesweeper" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg" width="100%"/>
+  <img alt="Minesweeper" src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/minesweeper-contribution-graph.svg" width="780"/>
 </picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
+
+<!-- 😂 MEME ZONE -->
+
+<div align="center" id="meme-zone">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=😂%20MEME%20LOUNGE&fontSize=22&fontColor=ff00ea&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/01-coding.gif" width="180" alt="Coding"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/02-typing.gif" width="180" alt="Typing"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/03-boss.gif" width="180" alt="Boss"/>
+</p>
 
-<!-- FOOTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/04-victory.gif" width="180" alt="Victory"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/05-matrix.gif" width="180" alt="Matrix"/>
+  <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/memes/09-nice.gif" width="180" alt="Nice"/>
+</p>
 
-<div align="center">
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
+
+<!-- 🎬 GAME CREDITS -->
+
+<div align="center" id="credits">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,12,24,12,0&height=50&section=header&text=🎬%20GAME%20CREDITS&fontSize=22&fontColor=00f5ff&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Dev quote"/>
 
 <br/><br/>
 
@@ -451,19 +373,20 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 <br/><br/>
 
 ```diff
-+ ████████████████████████████████████████████████████████████████
-+   GAME NOT OVER — PRESS ⭐ FOLLOW TO CONTINUE THE ADVENTURE 🎮
-+ ████████████████████████████████████████████████████████████████
++ ╔══════════════════════════════════════════════════════════╗
++ ║  GAME NOT OVER — PRESS ⭐ FOLLOW TO CONTINUE 🎮          ║
++ ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a148c,100:0d0221&height=120&section=footer&text=GG%20WP!%20Thanks%20for%20Playing&fontSize=30&fontColor=00f5ff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a148c,100:0d0221&height=110&section=footer&text=GG%20WP!%20Thanks%20for%20Playing&fontSize=28&fontColor=00f5ff&animation=twinkling"/>
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AmanSafwan?label=Followers&style=social)](https://github.com/AmanSafwan?tab=followers)
-
-**Built with 💜 by Aman Safwan · 7 Arcade Games · Live GIF · Activity Radar · Auto Everything**
-
 [![Profile Views](https://komarev.com/ghpvc/?username=AmanSafwan&label=PROFILE%20VIEWS&color=7B2FF7&style=flat-square)](https://github.com/AmanSafwan)
+
+<br/>
+
+**Built with 💜 by Aman Safwan · Cyber Dev Arcade v3.0 · 7 Games · Auto HUD · Pro Profile**
 
 </div>

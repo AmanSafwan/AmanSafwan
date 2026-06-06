@@ -250,9 +250,9 @@ Final-year **Computer Science warrior** at **UniSZA** — building **AI systems*
 
 <div align="center">
 
-**📈 LIVE ACTIVITY RADAR** *(auto-refreshes every 12h)*
+**📈 LIVE ACTIVITY RADAR** *(contributions timeline · auto-refreshes every 12h)*
 
-<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/activity-graph.svg" width="100%" alt="GitHub activity graph"/>
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/activity-graph.svg" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 

@@ -2,7 +2,7 @@ name: Generate profile assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */4 * * *"
 
   workflow_dispatch:
 
@@ -114,6 +114,13 @@ jobs:
       - name: generate activity graph
         run: |
           curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=radical" -o dist/activity-graph.svg
+
+      - name: generate live score summary
+        run: |
+          curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${{ github.repository_owner }}&theme=radical" -o dist/score-summary.svg
+
+      - name: write sync timestamp
+        run: echo "$(date -u +'%Y-%m-%d %H:%M UTC')" > dist/last-sync.txt
 
       - name: push profile assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

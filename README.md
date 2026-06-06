@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--        🎮 CYBER DEV ARCADE v3.0 — PRO GAMING PROFILE HUD           -->
+<!--        🎮 CYBER DEV ARCADE v3.1 — LIVE AUTO-UPDATING PROFILE HUD   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/main/img/github-header-banner%20(1).png" width="800" alt="Aman Safwan banner"/>
@@ -11,7 +11,7 @@
 ```diff
 +╔══════════════════════════════════════════════════════════════╗
 +║  🎮 PLAYER: AmanSafwan    CLASS: Cyber AI Engineer           ║
-+║  🌍 GUILD: UniSZA · MY    MODE: AUTO-UPDATE · 7 ARCADE      ║
++║  🌍 GUILD: UniSZA · MY    MODE: LIVE SYNC · 7 ARCADE         ║
 +╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -34,7 +34,8 @@
 ![XP](https://img.shields.io/badge/XP-GRINDING-7B2FF7?style=for-the-badge&labelColor=0d0221)
 ![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=QUESTS&color=00F5FF&logo=github)
 ![Party](https://img.shields.io/github/followers/AmanSafwan?style=for-the-badge&label=PARTY&color=39FF14&logo=github)
-![Auto](https://img.shields.io/badge/SYSTEMS-ONLINE-39FF14?style=for-the-badge&labelColor=0d0221&logo=githubactions&logoColor=white)
+![Live](https://img.shields.io/badge/LIVE-FEED-ON-FF00EA?style=for-the-badge&labelColor=0d0221&logo=pulse&logoColor=white)
+![Auto](https://img.shields.io/badge/AUTO-SYNC-4H-39FF14?style=for-the-badge&labelColor=0d0221&logo=githubactions&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=AmanSafwan&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -50,6 +51,7 @@
 
 <br/>
 
+[![Live](https://img.shields.io/badge/⚡_LIVE-FF00EA?style=flat-square&labelColor=0d0221)](#live-feed)
 [![HUD](https://img.shields.io/badge/⬇️_HUD-00F5FF?style=flat-square&labelColor=0d0221)](#player-hud)
 [![Profile](https://img.shields.io/badge/👤_PROFILE-FF00EA?style=flat-square&labelColor=0d0221)](#player-profile)
 [![Loadout](https://img.shields.io/badge/⚔️_LOADOUT-39FF14?style=flat-square&labelColor=0d0221)](#weapon-loadout)
@@ -60,9 +62,57 @@
 
 <br/>
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221)
-![Save](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=flat-square&label=LAST%20SAVE&color=39FF14&labelColor=0d0221)
-![Online](https://img.shields.io/github/actions/workflow/status/AmanSafwan/AmanSafwan/games.yml?style=flat-square&label=ONLINE&color=00F5FF&labelColor=0d0221)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.followers&style=flat-square&label=FOLLOWERS&color=00F5FF&labelColor=0d0221&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=flat-square&label=REPOS&color=7B2FF7&labelColor=0d0221&logo=github)
+![Commits](https://img.shields.io/github/commit-activity/m/AmanSafwan/AmanSafwan?style=flat-square&label=COMMITS%2FMONTH&color=39FF14&labelColor=0d0221)
+![Sync](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?branch=output&style=flat-square&label=ASSETS%20SYNCED&color=FF00EA&labelColor=0d0221)
+![Online](https://img.shields.io/github/actions/workflow/status/AmanSafwan/AmanSafwan/games.yml?style=flat-square&label=SYSTEMS&color=00F5FF&labelColor=0d0221)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,24,0,12&height=2&section=footer" width="800"/>
+
+<!-- ⚡ LIVE FEED -->
+
+<div align="center" id="live-feed">
+
+<img src="https://capsule-render.vercel.app/api?type=blinking&color=0:0d0221,100:4a148c&height=48&section=header&text=⚡%20LIVE%20FEED&fontSize=20&fontColor=ff00ea&animation=blinking"/>
+
+<br/>
+
+![Party](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.followers&style=for-the-badge&label=PARTY%20SIZE&color=00F5FF&labelColor=0d0221&logo=github)
+![Guild](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.following&style=for-the-badge&label=GUILD%20ALLIES&color=7B2FF7&labelColor=0d0221&logo=github)
+![Quests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_repos&style=for-the-badge&label=ACTIVE%20QUESTS&color=39FF14&labelColor=0d0221&logo=github)
+![Scrolls](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmanSafwan&query=%24.public_gists&style=for-the-badge&label=SCROLLS&color=FF00EA&labelColor=0d0221&logo=github)
+
+<br/>
+
+![Commits](https://img.shields.io/github/commit-activity/m/AmanSafwan/AmanSafwan?style=for-the-badge&label=COMMITS%20THIS%20MONTH&color=39FF14&labelColor=0d0221)
+![Activity](https://img.shields.io/github/commit-activity/y/AmanSafwan/AmanSafwan?style=for-the-badge&label=COMMITS%20THIS%20YEAR&color=00F5FF&labelColor=0d0221)
+![PRs](https://img.shields.io/github/issues-prs-raw/AmanSafwan/AmanSafwan?style=for-the-badge&label=ISSUES%20%26%20PRS&color=7B2FF7&labelColor=0d0221)
+![Last Save](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?style=for-the-badge&label=LAST%20SAVE&color=FF00EA&labelColor=0d0221)
+
+<br/>
+
+**🏅 LIVE SCOREBOARD** *(stars · commits · PRs · issues — synced every 4h)*
+
+<img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/score-summary.svg" width="780" alt="Live score summary"/>
+
+<br/>
+
+**🎲 LIVE DEV JOKE** *(new joke every time you open this profile)*
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=00f5ff&aColor=39ff14" width="500" alt="Live dev joke"/>
+
+<br/>
+
+**💬 LIVE DEV QUOTE** *(random quote every visit)*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Live dev quote"/>
+
+<br/>
+
+<sub>⚡ <b>Instant live:</b> followers · commits · jokes · quotes &nbsp;|&nbsp; <b>Auto-sync (4h):</b> score · stats · streak · trophies · arcade · snake</sub>
 
 </div>
 
@@ -90,7 +140,7 @@
 
 <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/snake-animated.gif" width="780" alt="Live snake animation"/>
 
-<sub>🔄 Stats · Streak · Languages · Activity · Snake GIF — auto-refresh every 12h</sub>
+<sub>🔄 Stats · Streak · Languages · Activity · Snake — auto-synced every 4h from your real GitHub activity</sub>
 
 </div>
 
@@ -123,12 +173,6 @@
 | 🎯 Specialty | ⚡ Languages | 🛡️ Stack | 🏆 Rank |
 | :---: | :---: | :---: | :---: |
 | AI / ML / Data | Python · Java · PHP · JS | TF · PyTorch · Flutter | Final Boss in Training |
-
-<br/>
-
-**🎲 RANDOM DEV JOKE** *(new joke every visit)*
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="500" alt="Dev joke"/>
 
 </div>
 
@@ -242,7 +286,16 @@
 
 <br/>
 
+![Trophies](https://img.shields.io/badge/TROPHIES-LIVE%20SYNC-39FF14?style=for-the-badge&labelColor=0d0221)
+![Achievements](https://img.shields.io/github/last-commit/AmanSafwan/AmanSafwan?branch=output&style=for-the-badge&label=LAST%20UNLOCK&color=00F5FF&labelColor=0d0221)
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/AmanSafwan/AmanSafwan/output/trophy.svg" width="780" alt="GitHub trophies"/>
+
+<br/>
+
+<sub>🏆 Trophy case pulls your real GitHub achievements · Updates automatically every 4 hours</sub>
 
 </div>
 
@@ -362,10 +415,6 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Dev quote"/>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://linkedin.com/in/amansafwan)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=0d0221)](https://pinterest.com/AmanSafwan)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0221)](https://reddit.com/user/Real_Tradition3349)
@@ -387,6 +436,6 @@
 
 <br/>
 
-**Built with 💜 by Aman Safwan · Cyber Dev Arcade v3.0 · 7 Games · Auto HUD · Pro Profile**
+**Built with 💜 by Aman Safwan · Cyber Dev Arcade v3.1 · Live Feed · 7 Games · Auto-Sync Every 4h**
 
 </div>
